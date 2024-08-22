@@ -1,3 +1,4 @@
+
 import { useState } from 'react'
 import Hero from './components/Hero'
 import Generator from './components/Generator'
